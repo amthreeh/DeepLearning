@@ -20,4 +20,9 @@ USW DeepLearning, CNN
 - 수평 sobel 필터, 수직 sobel 필터 사용함.
 ![image](https://github.com/amthreeh/DeepLearning/assets/103898937/a34a4b06-0f53-4464-bb88-5255b7b19c72)
 
+* CNN: 합성곱 -> RELU -> MaxPooling
+  -> 특징파악하고 해상도 낮춤을 반복함.
+  - 이를 통해 local하게 이미지를 구별함.
+  
+
 
