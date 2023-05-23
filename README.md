@@ -14,10 +14,10 @@ USW DeepLearning, CNN
   - padding은 숫자로 지정할 수 없음.
   - padding='SAME': input image와 featuremap의 크기가 동일함.
   - padding='VALID': padding을 진행하지 않음. -> 해상도가 줄어들게됨.
-
 해상도가 줄어들게되면 층을 깊게 쌓을 수가 없기 때문에 padding을 통해 너무 크기가 작아지는것을 줄임.
-
-- tf.nn으로 구현해봄.
+* MaxPooling: 최대값을 뽑아냄.
 
 - 수평 sobel 필터, 수직 sobel 필터 사용함.
-- 
+![image](https://github.com/amthreeh/DeepLearning/assets/103898937/a34a4b06-0f53-4464-bb88-5255b7b19c72)
+
+
