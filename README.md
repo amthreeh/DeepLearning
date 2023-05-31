@@ -25,4 +25,6 @@ USW DeepLearning, CNN
   - 이를 통해 local하게 이미지를 구별함.
   
 
-
+## WEEK 11_ 전이 학습
+Pretrained model
+![image](https://github.com/amthreeh/DeepLearning/assets/103898937/c757e7e3-2f73-415e-8785-4aa9844ad696)
